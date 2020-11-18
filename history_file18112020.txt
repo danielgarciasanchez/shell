@@ -1,0 +1,689 @@
+sudo echo echo
+echo Hello World
+echo "Hello" ; echo "world"
+echo "hello ; echo world"
+echo $SHELL
+echo "$SHELL"
+echo 'SHELL'
+echo `date`
+echo "hola hola $(date)"
+echo `date`
+echo $date
+echo $(date)
+echo "World\
+is nice\
+and so on"
+echo 'this is..\
+.. another "\
+one'
+echo " this is\
+another '\
+quote"
+echo
+echo "world \\
+is the same than double quote\
+ole!\
+"
+echo "This is \n new line"
+echo "This is \t new line"
+echo "This is \\t new line"
+echo "This is \\ new line"
+echo this ; echo that
+echo this \; echo echo that
+echo this \;  echo that
+echo " this dollar sign \$SHELL\
+"
+echo "this dollar sign \; $SHELL\
+"
+echo "this dollar sign \  $SHELL"
+echo this ; echo that
+echo this / echo that
+cat /proc/copuifo
+cat /proc/cupinfo
+cat /proc/cpuinfo
+cat /etc/os-release
+cd
+cd Data/
+cd Data/shell
+cd Data
+cd 
+cd Data/shell
+cd ../
+cd
+cd -
+bash
+cd ../
+exit
+cd..
+cd Data/shell
+cat Text_example.txt
+cat -n Text_example.txt
+cat -n Text_example.txt Text_example.txt Text_example.txt
+cd...
+cd..
+cd ..
+cat Data/shell/Text_example.txt
+cat books/Functional_Programmi.pdf
+62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c
+62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c[?62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;
+cat ./Data/shell/Text_example.txt
+cat ~/Data/shell/Text_example.txt
+pwd
+cd Data
+pwd
+ls
+cd..
+ls
+cd ..
+cd
+ls
+cd Data/challenge
+ls
+cs
+cd
+ls anaconda3
+cd anaconda3
+ls -s
+ls -1s
+ls -s1
+ls
+cd
+ls
+ls -a
+cd .
+ls -la
+cd home
+ls
+cd ../
+cd
+ls -l Data/README.md Data/shell/Text_example.txt
+ls -a
+ls -aS
+ls 
+ls -aSl
+touch file test00
+touch test00
+ls -l test00
+ls
+chmod u+x,g-w,o+w test00
+ls -l test00
+rwx  = 101 = 2(2)*1 + 2(1)*0 + 2(0)*1 = 5
+chmod 777 test00
+ls -l test00
+mkdir my_first_dir
+ls s
+ls --s
+ls -s
+mkdir -p my_second_dure/uno
+ls -s
+rm test00
+ls -s
+rm my_first_dir
+rm -r my_first_dir
+ls -s
+rm -r my_second_dure
+mkdr test
+touch fichero2
+cp fichero2 fichero_es
+ls -s
+mkdir dirtest
+ls -s
+cp fichero2 fichero_es dirtest
+cd dirtest
+ls
+man cp
+man help
+cp help
+cd
+mkdir first_dir
+cd
+cd ..
+cd
+ls
+cd first_dir
+touch text_file.txt
+ds
+ds l
+ls
+ls -l
+chmod g+x,o+w text_file.txt
+ls -l
+mk dir sub1
+mkdir sub1
+ls -s
+mkdir sub2
+mkdir sub3
+ls -s
+mkdir text_file
+ls -s
+rm -r sub3
+ls 
+cp text_file.txt text_file
+cd text_file
+ls
+cd
+git config --global user.name "Daniel Garcia Sanchez"
+git config --global user.email "daniel.garcia.cv@googlemail.com"
+cat .gitconfig
+gedit .gitconfig
+cat .history
+cat .history > 2020-11-11.txt
+pwd
+mkdir git
+ls
+cd git
+echo "# shell" >> README.md
+ls
+ls -s
+ls
+cat README.md
+git init
+git config --get user.name
+git add README.md
+git commit -m "first commit"
+git status
+touch kk.txt
+git status
+git branch -M main
+git status
+git branch -M master
+git status
+git remote add origin https://github.com/danielgarciasanchez/shell.git
+git status
+git push -u origin master
+git config --global user.name "danielgarciasanchez"
+git config --global user.email  "daniel.garcia.lux@gmail.com"
+git status
+git config --global
+git config --global credential.helper store
+man
+bash
+man login
+cd Data
+cs
+git q
+git --help
+q
+z
+git q
+git --help
+clear
+l
+ll
+cd Data/airline_tickets
+ls
+cd..
+cd
+cd Data/shell
+s
+ls
+less -n Finn.txt
+head -n Finn.txt
+head Finn.txt
+tail Finn.txt
+/^The
+less Finn.txt
+echo PATH$
+echo $PATH
+ll
+bash
+ll
+pwd
+cd Data
+cs
+cd
+cd Data
+ls
+lib
+lis
+ls
+echo $SHELL
+echo $TERM
+whomami
+whoami
+echo $host
+echo $HOST
+ECHO $USER
+echo $USER
+printenv
+printenv user
+printenv USER
+printenv HOST
+echo "World\
+is mine"
+echo "World\\
+is mine"
+echo "Hello \ "World\""\
+"
+"this is \ new line"
+ll
+cd
+ll
+clear
+echo "Hello World"
+echo "Hello World" > pp.txt
+head pp.txt
+echo "Hello World" >> pp.txt
+head pp.txt
+exit
+clear
+block search
+ls
+vim pp.txt
+pwd
+touch pp.txt
+ls
+echo "">pp2.txt
+ls
+gedit pp3.txt
+clear
+$HISTFILE
+echo $HISTFILE
+tail -n 3 /home/dsc/.history
+tail -n 10 /home/dsc/.history
+size .history
+$size .history
+ls
+ls -n
+ls -1
+ls -n1
+ls -l
+ls -l /home/dsc/.history
+ll $
+ll $HISTFILE
+ls
+cp .history /git
+ls
+ls /git
+pws
+pwd
+ls git
+ls -l
+ll -1
+exit
+rsync -avz /home/dsc/.history git
+cd git
+ls
+ls -l
+ll -l
+ls -a
+cd..
+exit
+ls
+ls git
+ls -1 git
+mv fichero2 git
+cd git
+ls
+ls-a
+ls -a
+git status
+cd
+ls
+ls -a
+echo $HISTFILE
+ls -a
+cd git
+pwd
+git init
+cp -r /home/dsc/.history git/
+clear
+history -i
+man history
+cd
+ls -l
+cd Data
+clear
+ls 
+-ls -l
+ll
+cd shell
+ll
+wc Text_example.txt
+head -n
+head -n 8
+head -n 8 Text_example.txt
+clear
+echo "hola" | wc
+echo "holas" | wc
+echo "un" | wc
+echo -n "un" | wc
+clear
+cat Text_example.txt | wc
+cat Text_example.txt | wc-|\
+\
+wc Text_example.txt
+wc Text_example.txt
+tail -c-1k optd_aircraft.csv|wc
+cd
+cp $HISTFILE ~git/history_20201117.txt
+cd git
+cp $HISTFILE ~git/history_20201117.txt
+cd
+cd Data
+ll
+ls
+cd opentraveldata
+ls
+tail -c-1k optd_aircraft.csv|wc
+tail -c 1K optd-aircraft.csv | wc
+head -c 1K optd_aircraft.csv | wc
+cd
+cp .history git
+cd git
+ls -n
+ls -l
+ll -n
+c
+cd
+cp .history git
+cd git
+ls
+ls -n
+ll -n
+cd
+wc -1 < hello-word
+wc -1 < "hello word"
+<hello-word wc -1
+punch "hello word" > hello-word.txt
+cd Data/opentraveldata/
+ls
+ls -n
+ll -n optd_por_public.csv
+ls -sS
+ls -sSl
+ls -sSlr
+ls -sSlr | tail -n 1
+ls -sSlr | tail -n 1 > Finn.txt
+ls
+ls -sSlr | tail -n 1 > largest_file.txt
+ls
+wc largest_file.txt
+cd
+cd Data
+cd shell
+ls
+wc Finn.txt
+cat Text_example.txt | head 3
+cat Text_example.txt | head
+cat Text_example.txt | head n3
+cat Text_example.txt | head n 3
+cat Text_example.txt | head -n 3
+head -n 5 Data/shell/Finn.txt | wc -q
+head -n 5 Data/shell/Finn.txt | wc -w
+ls
+head -n 5 Finn.txt | wc -w
+cat Text_example.txt | head -n 3
+clear
+cd
+find Text_example.txt
+cd Data/shell
+ls
+cat Text_example.txt
+head -n Text_Example.txt
+head -n 5 Data/shell/Finn.txt | wc -w
+ls -l
+cat Text_example.txt
+head Text_example.txt
+$ nl Text_example.txt
+$nl Text_example.txt
+cd git
+cd
+cd git
+ls -lrt
+cd
+ls -lrt
+$HISTFILE 
+echo $HISTFILE
+ls -lrt
+"echo $HISTFILE"
+exot
+clear
+echo "this is"                                                                                                                                                                                                                                                                                                                                                                                                                                            
+echo "this is" \; echo "that is"
+echo this \; echo that
+echo this is ; echo of echo
+cat /home/dsc/Data/shell/Text_example.txt
+cd Data/shell/
+cat -n Text_example.txt Text_example.txt Text_example.txt
+cd
+cd Data
+cd ope
+cd opentraveldata
+cat../shell/Text_example.txt
+cd..
+cd
+cd Data/shell
+ls
+cat Text_example.txt
+cd
+Data/opentraveldata
+cd Data/opentraveldata
+cat../shell/Text_example.txt
+cat ../shell/Text_example.txt
+cat ~/Data/shell/Text_example.txt
+pwd
+echo $PWD
+echo \$PWD
+cd /
+cd ./
+/
+cd
+./
+cd ./
+cd ../
+./
+~
+cd ~
+pwd
+cd -
+../
+cd ../
+ls
+cd
+cd ../
+cd - =
+cd .
+cd.
+cd .=>
+cd .
+pwd
+cd dsc/Data
+cd 
+cd .
+cd Data
+cd .
+.
+ls
+ls -1
+ls -s
+ls -1 -s
+ls -1s
+ls -s1
+cd airline_tickets
+ls
+ls -1
+ls -1 -s
+ls -1s
+ls -s1
+ls -lH
+ls -a
+ls -1 -a
+cd..
+cd .
+cd ..
+ls 
+ls -a
+cd ..
+ls 
+ls -a
+ls -l
+ls -la
+ls -l .zshrc
+ls -al Dir_Name
+ls -S
+ls -lSr
+ls -lS
+ls -lt
+ls -ltX
+chmod o+wx pp.txt
+ls
+ls -ltX
+chmod u+x pp.txt
+ls -ltX
+mkdir borrar
+ls
+ls -l
+cd borrar
+touch borrarlo.txt
+ls 
+mkdir one
+ls
+mkdir this and that
+ls -l
+mkdir one/two/three
+mkdir -p one/two/three
+ls 
+cd one
+ls -l
+cd two
+ls
+touch file
+ls -l
+cd three
+ls
+cd...
+cd ..
+cp -r ~/borrar/that ~/borrar/this
+cd ..
+cd ...
+cd ..
+ls -l
+cd that
+ls
+ls -l
+cd..
+cd ..
+cd this
+ls -l
+cd that
+ls -l
+cd ..
+mv this ~/borrar/that
+cd borrar
+cd that
+ls -l
+cd ..
+ls
+mv borrarlo.txt borrarlo2.txt
+ls -l
+mv borrarlo2.txt locura3.txt
+ls -l
+mv -i locura3.txt locura1.txt
+ls -l
+rm locura1.txt
+ls -l
+cd ..
+pwd
+mkdir first_dir
+ls -l
+punch first_dir/text_file.txt
+touch first_dir/text_file.txt
+cd first_dir
+ls -l
+chmod g+x
+chmod u+x
+chmod g+x text_file.txt
+chmod o+w text_file.txt
+ls -l
+chmod u+x text_file.txt
+ls -l
+chmod o+x text_file.txt
+ls -l
+chmod u-x,g-x,o-x text_file.txt
+ls -l
+mkdir sub1, sub2, text_file
+mkrm text_file
+mv text_file
+mv --help
+ls -l
+rm -r text_file
+ls -l
+rm -r sub1, sub,
+rm -r sub2,
+ls -l
+rm -r sub1, sub2
+rm -r sub1/,sub2/
+rm -r sub1/, sub2/
+rm -r sub1 sub2
+ls -l
+mk dir sub1, sub2, text_file
+mkdir sub1, sub2, text_file
+ls -l
+rm -r sub1, sub2,
+rem -r text_file
+ls -
+ls -l
+rm -r text_file
+ls -l
+mkdir sub1 sub2 text_file
+ls -l
+mv text_file sub1
+ls -l
+cd sub1
+ls 
+mv ~/first_dir/sub1/text_file ~/first_dir/sub2 > text_file.txt.2
+cd ~/first_dir/sub2
+ls -l
+mv ~/first_dir/sub1/text_file.txt ~/first_dir/sub2 > text_file.txt.2
+cd ..
+ls
+cd sub1
+ls
+mv text_file.txt.2 text_file.txt
+ls -l
+mv ~/first_dir/sub1/text_file.txt ~/first_dir/sub2 > text_file.txt.2
+cd ..
+ls -l
+cd sub2
+ls -l
+rm text_file.txt
+ls -l
+cp -r ~/first_dir/sub1 ~/first_dir/sub3
+cd ..
+cd sub3
+ls -l
+cd .
+cd ..
+cd sub1
+ls -l
+cd ..
+ls -l
+cd sub1
+ls -l
+cd ..
+cd sub3
+ls -l
+mv ~/first_dir/sub1 ~/first_dir/sub3
+ls -l
+cd ..
+mv ~/first_dir/sub2/text_file.txt.2 ~/first_dir/sub2/text_file.txt.backup
+cd sub2
+ls -l
+cp ~/first_dir/sub2/text_file.txt.backup ~/first_dir/.text_file.txt.backup
+cd ..
+cd ls
+ls
+ls -a
+rm ~/first_dir/sub2
+rm -r ~/first_dir/sub2
+ls
+git init
+echo $HISTFILE
+cat .history
+cd ..
+cat .history
+cd git
+ls
+cat .history
+cat .history > ~/git/history_file18112020.txt
